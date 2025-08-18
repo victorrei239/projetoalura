@@ -1,15 +1,5 @@
-Site acessível sobre Tropicália
-Sobre
-Refatoração de um site implementando recursos de acessibilidade no html, css e JS.
+PROJETO DE CRIAÇÂO DE SITE DA ALURA
 
-Recursos de acessibilidade
-Atributos aria
-alt
-tab-index
-menu de acessibilidade
-Tecnologias utilizadas
-Bootstrap
-ScrollRevealjs
-HTML
-CSS
-JS
+site,com codigos e referencias para iniciantes
+com imagens coloridas
+nada especifico mas divertido
